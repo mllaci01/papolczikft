@@ -21,9 +21,7 @@
     background-color: #555;
     }
     #button::after {
-        font-family: "Font Awesome 5 Free"; 
-     
-    content: "\f007";
+    
         font-weight: normal;
         font-style: normal;
         font-size: 2em;
